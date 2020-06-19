@@ -1,0 +1,19 @@
+body {
+  background-color: ivory;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #de7119;
+  border-width: 10px;
+  height: 0px;
+  width: 10%;
+}
+
+h1 {
+  color: #de7119;
+}
+h4 {
+  color: #de7119;
+}
